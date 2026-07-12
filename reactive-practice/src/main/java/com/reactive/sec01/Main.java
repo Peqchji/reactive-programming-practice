@@ -1,9 +1,9 @@
-package com.reactive;
+package com.reactive.sec01;
 
 import java.time.Duration;
 
-import com.reactive.publisher.PublisherImpl;
-import com.reactive.subscriber.SubscriberImpl;
+import com.reactive.sec01.publisher.PublisherImpl;
+import com.reactive.sec01.subscriber.SubscriberImpl;
 
 public class Main {
     public static void main(String[] args) {
